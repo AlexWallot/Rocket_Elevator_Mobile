@@ -24,3 +24,20 @@ For Rocket Elevators, i have to do an mobile application for the employees about
 I use React native for this app. With Expo, i can deploy my app on IOS and Android.
 
 ##
+## Installation
+
+Clone or download the .zip for this project. 
+
+After that use `npm install` for the node_modules.
+
+For starting the app, use `expo start` and scan the QR code.
+
+<br>
+
+## Accessing
+
+By clicking on “Login”, users will be redirected to a page with all the elevators in maintenance or offline.
+	
+	Example: 
+
+	Email: nicolas.genest@codeboxx.biz
