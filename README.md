@@ -33,6 +33,8 @@ For starting the app, use `expo start` and scan the QR code.
 
 ## Website
 
+https://expo.dev/@alexwallot/Rocket_Elevator_Mobile
+
 ## Accessing
 
 By clicking on “Login”, users will be redirected to a page with all the elevators in maintenance or offline.
